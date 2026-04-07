@@ -1,0 +1,29 @@
+What is mechanics?|Study of motion and forces|Study of heat|Study of electricity|Study of light|0
+SI unit of force?|Newton|Joule|Watt|Pascal|0
+Newton’s first law is also called?|Law of inertia|Law of force|Law of action|Law of momentum|0
+Inertia depends upon?|Mass|Velocity|Force|Acceleration|0
+SI unit of mass?|kg|gram|newton|joule|0
+Velocity is defined as?|Rate of change of displacement|Rate of change of distance|Change in speed|Force per mass|0
+Acceleration is?|Rate of change of velocity|Rate of change of distance|Change in force|Mass per time|0
+SI unit of acceleration?|m/s^2|m/s|kg/m^2|N/m|0
+A body at rest has velocity?|Zero|Maximum|Negative|Infinite|0
+Distance is a?|Scalar quantity|Vector quantity|Both|None|0
+Displacement is a?|Vector quantity|Scalar quantity|Dimensionless|Constant|0
+Momentum is equal to?|Mass × velocity|Force × time|Energy × time|Mass ÷ velocity|0
+SI unit of momentum?|kg·m/s|N/m|J/s|kg/s|0
+Newton’s second law relates force with?|Acceleration|Velocity|Displacement|Mass only|0
+F = ma represents?|Newton’s second law|First law|Third law|Law of gravitation|0
+Action and reaction forces are?|Equal and opposite|Equal only|Opposite only|Unrelated|0
+Newton’s third law states?|Action = reaction|Force = mass|Energy conserved|Momentum zero|0
+Work is done when force causes?|Displacement|Speed|Mass|Time|0
+SI unit of work?|Joule|Newton|Watt|Pascal|0
+Work done =?|Force × displacement|Mass × velocity|Energy × time|Force ÷ mass|0
+Power is defined as?|Rate of doing work|Total work|Force applied|Energy stored|0
+SI unit of power?|Watt|Joule|Newton|Volt|0
+Kinetic energy formula?|1/2 mv^2|mgh|mv|Fv|0
+Potential energy depends on?|Height|Speed|Force only|Time|0
+mgh represents?|Potential energy|Kinetic energy|Momentum|Power|0
+Law of conservation of energy states?|Energy cannot be created or destroyed|Energy increases|Energy decreases|Energy vanishes|0
+Friction is a force that?|Opposes motion|Causes motion|Stops energy|Increases speed|0
+Unit of pressure?|Pascal|Newton|Joule|Watt|0
+Pressure is force divided by?|Area|Mass|Volume|Velocity|0

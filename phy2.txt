@@ -1,0 +1,28 @@
+Electric charge is measured in?|Coulomb|Ampere|Volt|Ohm|0
+Like charges?|Repel each other|Attract each other|Disappear|Neutralize|0
+Unlike charges?|Attract each other|Repel each other|Remain same|Destroy|0
+SI unit of current?|Ampere|Volt|Coulomb|Ohm|0
+Electric current is?|Flow of charge|Flow of energy|Flow of electrons only|Flow of protons|0
+Ohm’s law states?|V = IR|I = VR|R = VI|V = I/R^2|0
+SI unit of voltage?|Volt|Ampere|Ohm|Watt|0
+SI unit of resistance?|Ohm|Volt|Ampere|Coulomb|0
+Resistance depends on?|Length of wire|Current|Voltage only|Power|0
+Resistivity is a property of?|Material|Length|Area|Current|0
+SI unit of resistivity?|Ohm·m|Ohm|m/Ohm|Volt/m|0
+Electrical power formula?|P = VI|P = IR|P = V/R|P = I/V|0
+Magnetic field is produced by?|Current carrying conductor|Stationary charge|Insulator|Battery only|0
+SI unit of magnetic field?|Tesla|Weber|Newton|Ampere|0
+Right hand thumb rule is used to find?|Direction of magnetic field|Current magnitude|Voltage|Resistance|0
+Electromagnet consists of?|Current and soft iron|Permanent magnet|Battery only|Resistor|0
+Fleming’s left hand rule is used for?|Motor|Generator|Transformer|Battery|0
+Fleming’s right hand rule is used for?|Generator|Motor|Fan|Bulb|0
+Transformer works on principle of?|Electromagnetic induction|Static electricity|Ohm’s law|Coulomb’s law|0
+Step-up transformer increases?|Voltage|Current|Power|Resistance|0
+Electric field is defined as?|Force per unit charge|Charge per force|Energy per charge|Voltage per current|0
+SI unit of electric field?|N/C|Volt|Ampere|Ohm|0
+Capacitor stores?|Electric charge|Magnetic field|Current|Resistance|0
+SI unit of capacitance?|Farad|Henry|Tesla|Ohm|0
+Parallel plate capacitor depends on?|Area and distance|Current only|Voltage only|Resistance|0
+Electric fuse is used to?|Protect circuit|Increase current|Store energy|Reduce voltage|0
+Short circuit causes?|High current|Low voltage|No current|Zero power|0
+Earth wire is used for?|Safety|Heating|Lighting|Insulation|0

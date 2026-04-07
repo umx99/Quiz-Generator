@@ -1,0 +1,29 @@
+Modern physics deals with?|Atomic and nuclear phenomena|Motion|Forces|Heat only|0
+Photoelectric effect explains?|Emission of electrons|Reflection of light|Refraction|Diffraction|0
+Photoelectric effect supports?|Particle nature of light|Wave nature|Sound nature|Heat nature|0
+Photon energy formula?|E = hf|E = mc^2|E = mv^2|E = h/λ^2|0
+Planck’s constant symbol?|h|c|e|k|0
+SI unit of Planck’s constant?|J·s|J|eV|Hz|0
+Threshold frequency is?|Minimum frequency|Maximum frequency|Average frequency|Zero frequency|0
+Electron volt is unit of?|Energy|Charge|Force|Power|0
+Rest mass energy formula?|E = mc^2|E = hf|E = mv^2|E = mgh|0
+Nucleus contains?|Protons and neutrons|Electrons only|Neutrons only|Protons only|0
+Atomic number represents?|Number of protons|Number of neutrons|Total particles|Mass number|0
+Mass number equals?|Protons + neutrons|Electrons + neutrons|Protons only|Neutrons only|0
+Isotopes have same?|Atomic number|Mass number|Neutrons|Electrons only|0
+Radioactivity is?|Spontaneous emission|Forced emission|Chemical reaction|Ionization|0
+Alpha particle is?|Helium nucleus|Electron|Photon|Proton|0
+Beta particle is?|Electron|Proton|Neutron|Photon|0
+Gamma rays are?|Electromagnetic waves|Particles|Sound waves|Matter waves|0
+Most penetrating radiation?|Gamma|Alpha|Beta|X-rays|0
+Half-life is defined as?|Time for half decay|Time for full decay|Average life|Total life|0
+SI unit of activity?|Becquerel|Gray|Sievert|Joule|0
+Nuclear fission is?|Splitting of nucleus|Joining nuclei|Electron emission|Ionization|0
+Nuclear fusion is?|Joining of nuclei|Splitting nucleus|Decay|Ionization|0
+Sun produces energy by?|Fusion|Fission|Combustion|Radioactivity|0
+Uses of nuclear energy include?|Power generation|Lighting|Heating wire|Insulation|0
+X-rays were discovered by?|Roentgen|Einstein|Bohr|Newton|0
+X-rays are used in?|Medical imaging|Sound detection|Heating|Communication only|0
+LASER stands for?|Light Amplification by Stimulated Emission of Radiation|Light Action System|Long Amplified Source|None|0
+LASER light is?|Monochromatic|Polychromatic|Diffuse|Invisible|0
+Semiconductor example?|Silicon|Copper|Iron|Wood|0

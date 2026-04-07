@@ -1,0 +1,28 @@
+Risk is defined as?|Threat × Vulnerability|Asset × Threat|Control × Threat|Attack × Control|0
+Asset is?|Anything valuable|Only data|Only hardware|Only software|0
+Threat is?|Potential danger|Security control|Asset|Vulnerability|0
+Vulnerability is?|Weakness|Attack|Asset|Threat|0
+Risk management aims to?|Reduce risk|Eliminate all risk|Ignore risk|Increase cost|0
+Risk assessment involves?|Identifying risks|Installing firewall|Encrypting data|Auditing code|0
+Risk analysis evaluates?|Impact and likelihood|Only threats|Only assets|Only controls|0
+Qualitative risk analysis uses?|Low/Medium/High|Numbers only|Formulas|Algorithms|0
+Quantitative risk analysis uses?|Numerical values|Opinions|Colors|Levels|0
+ALE stands for?|Annual Loss Expectancy|Average Loss Estimate|Asset Loss Evaluation|Annual Level Estimate|0
+SLE stands for?|Single Loss Expectancy|System Loss Estimate|Security Level Evaluation|Single Level Estimate|0
+ARO stands for?|Annual Rate of Occurrence|Average Risk Output|Asset Risk Objective|Annual Risk Output|0
+Risk treatment includes?|Mitigate|Transfer|Accept|All|3
+Risk mitigation means?|Reducing risk|Ignoring risk|Increasing risk|Removing asset|0
+Risk transfer means?|Shifting risk|Reducing risk|Ignoring risk|Accepting risk|0
+Risk acceptance means?|Accepting remaining risk|Removing asset|Eliminating threat|Ignoring controls|0
+Risk avoidance means?|Eliminating activity|Reducing impact|Sharing risk|Monitoring risk|0
+Control is used to?|Reduce risk|Increase threat|Create asset|Cause attack|0
+Administrative controls include?|Policies|Firewalls|Antivirus|Encryption|0
+Technical controls include?|Firewalls|Policies|Training|Procedures|0
+Physical controls include?|Locks|Policies|Passwords|Encryption|0
+Residual risk is?|Remaining risk|Initial risk|Zero risk|Threat|0
+Risk management is a?|Continuous process|One-time task|Optional|Manual only|0
+Risk register contains?|Identified risks|Passwords|Keys|Logs|0
+Impact refers to?|Damage severity|Attack speed|Threat count|Control strength|0
+Likelihood refers to?|Probability|Impact|Cost|Asset value|0
+High risk occurs when?|High impact & high likelihood|Low impact|Low likelihood|No threat|0
+Risk management supports?|Decision making|Hacking|Coding|Networking|0

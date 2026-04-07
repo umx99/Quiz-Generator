@@ -1,0 +1,57 @@
+Integration is inverse of?|Differentiation|Limit|Continuity|Graph|0
+Integral represents?|Slope|Area|Rate|Limit|1
+Indefinite integral has?|Value|Zero|Constant C|Limits|2
+Integral of x is?|x^2|x|2x|x^2/2 + C|3
+Integral of constant c is?|cx + C|c|0|1|0
+Integral of sin x is?|0| -cos x + C |cos x + C|sin x|1
+Integral of cos x is?|cos x|0|sin x + C| -sin x + C|2
+Integral of 1/x is?|1/x|x^2|x|ln|3
+Definite integral gives?|Number|Function|Constant C|Slope|0
+Definite integral limits are?|One side|Upper & lower|Infinity|None|1
+Area under curve found by?|Limit|Derivative|Integration|Continuity|2
+Integral symbol is?|d/dx|lim|Σ|∫|3
+Integral of e^x is?|e^x + C|x e^x|1|0|0
+Integral of sec^2 x is?|sec x|tan x + C|cos x|0|1
+Integral of 0 is?|1|x|0|C|2
+Area under curve is found using?|Derivative|Limit|Slope|Integration|3
+Distance traveled is integral of?|Speed|Acceleration|Slope|Area|0
+Definite integral gives?|Function|Exact area|Slope|Limit|1
+Integral used in physics for?|Slope|Limit|Work|Derivative|2
+Work = integral of?|Velocity|Distance|Slope|Force|3
+Area between two curves uses?|Definite integrals|Limits|Derivatives|Continuity|0
+Average value of function uses?|Derivative|Integral|Limit|Slope|1
+Integral of velocity gives?|Speed|Acceleration|Displacement|Slope|2
+Integral of acceleration gives?|Distance|Area|Slope|Velocity|3
+Application of integrals in economics?|Consumer surplus|Profit only|Tax|Banking|0
+Integral calculates?|Rate|Slope|Limit|Accumulated quantity|3
+Integral helps find?|Area|Slope|Limit|Continuity|0
+Volume of solid found by?|Derivative|Limit|Slope|Integration|3
+Integration is used in?|Physics|Economics|Engineering|All|3
+Average value formula uses?|Definite integral|Indefinite|Derivative|Limit|0
+Integral of force over distance gives?|Work|Power|Energy|Velocity|0
+Applications require?|Definite integrals|Indefinite only|Limits|Derivatives|0
+Area always?|Positive|Negative|Zero|Undefined|0
+Signed area may be?|Negative|Only positive|Infinite|Undefined|0
+Integral gives net?|Change|Slope|Rate|Limit|0
+Integrals apply to?|Continuous functions|Discontinuous only|Constants|Limits|0
+Application problems convert to?|Integral form|Derivative|Limit|Slope|0
+Integral can compute?|Mass|Charge|Area|All|3
+Integral is useful for?|Accumulation|Speed|Slope|Limit|0
+Applications link math with?|Real world|Theory only|Limits|Graphs|0
+Integral models?|Total effect|Instant effect|Slope|Rate|0
+Applications use variable?|Dependent|Independent|Constant|None|0
+Integral sums?|Infinite small parts|Slopes|Points|Limits|0
+Applications require correct?|Limits|Derivative|Slope|Graph|0
+Indefinite integral gives?|Family of curves|One value|Slope|Limit|0
+Constant of integration appears in?|Indefinite integrals|Definite|Limits|Derivatives|0
+Integration by substitution is used for?|Complex functions|Constants|Limits|Polynomials|0
+Integral of derivative gives?|Original function|Slope|Area|Limit|0
+Integration is summation of?|Infinitesimal parts|Slopes|Limits|Points|0
+Area between curve and x-axis uses?|Definite integral|Derivative|Limit|Slope|0
+Integral of a negative function gives?|Negative area|Zero|Positive|Infinite|0
+Integration can find?|Distance|Velocity|Acceleration|Slope|0
+Integral of 1 is?|x + C|1|0|C|0
+Integral of x^2 is?|x^3/3 + C|2x|x^2|3x|0
+Integration smooths?|Curve|Slope|Limit|Derivative|0
+Antiderivative is same as?|Integral|Derivative|Limit|Slope|0
+Integral measures?|Accumulation|Rate|Slope|Limit|0

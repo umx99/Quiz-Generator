@@ -1,0 +1,34 @@
+Synonym of happy?|Joyful|Sad|Angry|Lazy|0
+Antonym of brave?|Bold|Coward|Strong|Fearless|1
+Synonym of fast?|Slow|Late|Quick|Weak|2
+Antonym of success?|Win|Progress|Achieve|Failure|3
+Meaning of ancient?|Very old|Very new|Fast|Modern|0
+Synonym of begin?|End|Start|Stop|Finish|1
+Antonym of rich?|Wealthy|Strong|Poor|Healthy|2
+Meaning of fragile?|Very strong|Heavy|Large|Easily broken|3
+Synonym of angry?|Furious|Calm|Happy|Kind|0
+Antonym of easy?|Simple|Difficult|Light|Soft|1
+Meaning of honest?|Clever|Lazy|Truthful|Rude|2
+Synonym of silent?|Loud|Noisy|Talkative|Quiet|3
+Antonym of early?|Late|Soon|Fast|Quick|0
+Meaning of improve?|Make worse|Make better|Stop|Destroy|1
+Synonym of mistake?|Correct|Right|Error|Truth|2
+Antonym of accept?|Agree|Allow|Take|Reject|3
+Meaning of journey?|Travel|Stop|Stay|Sleep|0
+Synonym of fear?|Brave|Afraid|Strong|Bold|1
+Antonym of hot?|Warm|Boiling|Cold|Burning|2
+Meaning of reduce?|Increase|Add|Grow|Decrease|3
+Synonym of help?|Assist|Hurt|Ignore|Avoid|0
+Antonym of light (weight)?|Bright|Heavy|Soft|Thin|1
+Meaning of polite?|Rude|Angry|Well-mannered|Harsh|2
+Synonym of famous?|Unknown|Hidden|Lost|Well-known|3
+Antonym of buy?|Sell|Purchase|Take|Get|0
+Meaning of danger?|Safety|Risk|Peace|Comfort|1
+Synonym of strong?|Weak|Soft|Powerful|Thin|2
+Antonym of clean?|Pure|Fresh|Neat|Dirty|3
+Meaning of correct?|Right|Wrong|False|Bad|0
+Synonym of tired?|Fresh|Exhausted|Active|Energetic|1
+Antonym of near?|Close|Next|Far|Beside|2
+Meaning of decide?|Confuse|Delay|Forget|Choose|3
+Synonym of small?|Tiny|Big|Huge|Large|0
+Antonym of kind?|Nice|Cruel|Good|Gentle|1

@@ -1,0 +1,34 @@
+OOP stands for?|Object Oriented Programming|Object Open Programming|Only Object Programming|Optional Object Programming|0
+Class is a?|Blueprint|Object|Function|Variable|0
+Object is an?|Instance of class|Blueprint|Function|Variable|0
+Which keyword defines class?|class|struct|object|define|0
+Which keyword creates object?|ClassName obj;|new class|create|object|0
+Encapsulation means?|Binding data and methods|Hiding data|Inheritance|Polymorphism|0
+Data hiding is achieved by?|Private members|Public members|Functions|Objects|0
+Which access specifier allows access everywhere?|public|private|protected|default|0
+Which access specifier restricts access?|private|public|protected|global|0
+Protected members are accessible in?|Derived class|Main function|Outside class|Everywhere|0
+Inheritance means?|Acquiring properties|Hiding data|Overloading|Binding|0
+Base class is?|Parent class|Child class|Object class|Derived class|0
+Derived class is?|Child class|Parent class|Base class|Main class|0
+Which symbol shows inheritance?|:|->|.|::|0
+Which access mode shares members?|public inheritance|private inheritance|protected inheritance|default|0
+Polymorphism means?|Many forms|One form|Data hiding|Security|0
+Function overloading is?|Compile time polymorphism|Run time polymorphism|Inheritance|Encapsulation|0
+Function overriding is?|Run time polymorphism|Compile time polymorphism|Encapsulation|Overloading|0
+Which keyword enables runtime polymorphism?|virtual|static|inline|const|0
+Virtual function is resolved at?|Run time|Compile time|Link time|Load time|0
+Which pointer refers to current object?|this|self|current|obj|0
+Constructor is used to?|Initialize object|Destroy object|Call function|Allocate memory only|0
+Constructor name is same as?|Class name|Function name|Object name|Variable name|0
+Destructor is used to?|Free resources|Create object|Initialize object|Overload function|0
+Destructor name starts with?|~|#|$|@|0
+Constructors have return type?|No|Yes|int|void|0
+Destructor has parameters?|No|Yes|Optional|Depends|0
+Which concept increases code reuse?|Inheritance|Encapsulation|Abstraction|Polymorphism|0
+Abstraction means?|Showing essentials|Hiding data|Copying object|Binding|0
+Which keyword is used for abstraction?|abstract|virtual|interface|None|1
+Which concept improves flexibility?|Polymorphism|Encapsulation|Abstraction|Inheritance|0
+Which OOP feature binds code and data?|Encapsulation|Inheritance|Polymorphism|Abstraction|0
+Which OOP feature hides complexity?|Abstraction|Encapsulation|Inheritance|Polymorphism|0
+Which OOP feature allows same function name?|Polymorphism|Inheritance|Encapsulation|Abstraction|0

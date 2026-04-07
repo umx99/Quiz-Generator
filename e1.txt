@@ -1,0 +1,39 @@
+Choose the correct sentence?|He is going to school|He going to school|He go to school|He gone to school|0
+Identify the noun in the sentence: "Ali plays cricket"|plays|Ali|cricket|plays cricket|1
+Which tense is: "She is reading a book"?|Present simple|Past continuous|Present continuous|Future simple|2
+Choose correct article: ___ apple a day keeps doctor away|A|The|No article|An|3
+Which is a pronoun?|He|Run|Table|Beautiful|0
+Choose correct verb: She ___ to school daily|goes|go|gone|going|0
+Plural of child is?|Childs|Childes|Children|Childrens|2
+Which word is an adjective?|Beauty|Beautify|Beautician|Beautiful|3
+Identify preposition: The book is on the table|on|book|table|is|0
+Correct passive voice: He writes a letter|A letter was written by him|A letter is written by him|A letter is writing|A letter written him|1
+Which is a conjunction?|Very|Quickly|And|Happy|2
+Correct form: I ___ him yesterday|meet|meets|meeting|met|3
+Which sentence is interrogative?|Are you coming?|You are coming.|You were coming.|You come.|0
+Which tense uses "has/have"?|Past perfect|Present perfect|Future perfect|Present simple|1
+Identify adverb: She speaks softly|speaks|she|softly|soft|2
+Correct sentence?|He do his work|He done his work|He doing his work|He does his work|3
+Choose correct modal: You ___ obey the rules|must|can|may|might|0
+Which is an imperative sentence?|Door is closed|Close the door|Door was closed|You closed door|1
+Correct indirect speech: He said, "I am tired"|He said that I was tired|He says he tired|He said that he was tired|He said I tired|2
+Which is a possessive pronoun?|Me|I|My|Mine|3
+Choose correct comparative: This book is ___ than that|better|good|best|well|0
+Superlative of tall?|Taller|Most tall|Tallest|Very tall|2
+Correct sentence?|She finished has work|She finish work|She has finished work|She finishing work|2
+Identify subject: The cat is sleeping|sleeping|is|cat|The cat|3
+Which is correct punctuation?|Hello, how are you?|Hello how are you|Hello how are you.|Hello; how are you|0
+Choose correct word: He is ___ honest man|a|the|no article|an|3
+Which sentence is exclamatory?|It is beautiful day.|Is it beautiful?|This is beautiful.|What a beautiful day!|3
+Choose correct verb: They ___ playing|are|is|was|be|0
+Which is a countable noun?|Book|Milk|Water|Sugar|0
+Choose correct sentence?|I seen him|I saw him seen|I see him|I have seen him|3
+Which tense shows completed action?|Past simple|Present continuous|Future|Present simple|0
+Identify object: She bought a pen|she|bought|pen|a pen|3
+Choose correct form: He ___ already left|has|have|had|having|0
+Which word is an interjection?|Run|Table|Blue|Wow|3
+Choose correct sentence?|We waiting for him|We was waiting for him|We are wait|We were waiting for him|3
+Which sentence is correct?|It is raining|It raining|It rain|Raining it|0
+Choose correct preposition: He is good ___ math|at|in|on|with|0
+Which is a helping verb?|Is|Run|Eat|Play|0
+Correct sentence?|She don’t like tea|She didn’t likes tea|She doesn’t likes tea|She doesn’t like tea|3

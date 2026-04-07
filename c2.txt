@@ -1,0 +1,58 @@
+Derivative represents?|Slope|Area|Volume|Limit only|0
+Derivative is defined as?|Average|Limit of difference quotient|Area|Integral|1
+dy/dx means?|Area|Value|Rate of change|Integral|2
+Derivative of constant is?|1|c|Undefined|0|3
+Derivative of x is?|1|0|x|Undefined|0
+Derivative of x^n is?|x^n|n x^(n-1)|n x^n|x^(n+1)|1
+Derivative of sin x is?|sin x|-cos x|cos x|-sin x|2
+Derivative of cos x is?|cos x|sin x|-cos x|-sin x|3
+Derivative of e^x is?|e^x|x e^x|1|0|0
+Derivative of ln x is?|ln x|1/x|x|e^x|1
+Differentiation measures?|Area|Distance|Rate|Volume|2
+Derivative exists if function is?|Continuous|Bounded|Constant|Differentiable|3
+Differentiability implies?|Continuity|Discontinuity|Infinity|Jump|0
+Derivative of 1/x is?|1/x|-1/x^2|x|x^2|1
+Derivative of tan x is?|sin x|cos x|sec^2 x|cosec^2 x|2
+Second derivative gives?|Slope|Area|Integral|Acceleration|3
+If f'(x)=0 then point is?|Maximum/Minimum|Limit|Integral|Discontinuous|0
+Derivative at a point gives?|Area|Normal|Integral|Slope of tangent|3
+Differentiation is inverse of?|Integration|Limit|Continuity|Graphing|0
+Chain rule is used for?|Polynomials|Constants|Limits|Composite functions|3
+Product rule applies to?|Product of functions|Sum|Quotient|Constant|0
+Quotient rule applies to?|Addition|Division|Multiplication|Limits|1
+Derivative of x^2 is?|x|x^2|2x|2|2
+Derivative of sqrt(x) is?|sqrt(x)|2sqrt(x)|1/x|1/(2sqrt(x))|3
+Derivative of sin x + cos x is?|cos x - sin x|sin x + cos x|0|1|0
+Derivative of a line is?|Constant|Variable|Zero always|Infinite|0
+Derivative of f(x)=ax+b is?|b|x|0|a|3
+Differentiation helps in?|Optimization|Storage|Encryption|Backup|0
+If derivative undefined then function is?|Not differentiable|Continuous|Linear|Constant|0
+Slope of tangent is?|Integral|Limit|Area|Derivative|3
+Maximum occurs when f'(x)=?|0|1|∞|Undefined|0
+Minimum occurs when?|f(x)=0|Limit zero|Integral zero|f'(x)=0|3
+Increasing function has f'(x)?|Positive|Negative|Zero|Infinite|0
+Decreasing function has f'(x)?|Positive|Negative|Zero|Constant|1
+Critical point occurs when?|f(x)=0|Limit exists|Integral zero|f'(x)=0 or undefined|3
+Velocity is derivative of?|Distance|Time|Acceleration|Speed|0
+Acceleration is derivative of?|Velocity|Distance|Area|Slope|0
+Tangent touches curve at?|One point|Two points|All points|None|0
+Normal is perpendicular to?|Tangent|Curve|X-axis|Y-axis|0
+Derivative gives best?|Rate|Area|Length|Volume|0
+Maxima means?|Highest value|Lowest value|Zero|Infinite|0
+Minima means?|Lowest value|Highest value|Zero|Undefined|0
+Optimization deals with?|Max/Min problems|Limits|Integration|Continuity|0
+Slope positive means?|Rising curve|Falling|Flat|Vertical|0
+Slope negative means?|Falling curve|Rising|Flat|Constant|0
+Second derivative test checks?|Nature of point|Limit|Continuity|Area|0
+If f''(x)>0 then point is?|Minimum|Maximum|Saddle|Undefined|0
+If f''(x)<0 then point is?|Maximum|Minimum|Zero|Undefined|0
+Application of derivatives in economics?|Profit maximization|Tax|Banking|Accounts|0
+Derivative used in physics for?|Motion|Energy only|Heat only|Light only|0
+Derivative of position gives?|Velocity|Acceleration|Distance|Area|0
+Rate of change is same as?|Derivative|Integral|Limit|Continuity|0
+Horizontal tangent means slope?|0|1|∞|Undefined|0
+Vertical tangent slope is?|Infinite|Zero|One|Constant|0
+Derivative helps find?|Tangents|Areas|Volumes|Limits|0
+Speed is magnitude of?|Velocity|Acceleration|Distance|Slope|0
+Turning point occurs when?|Slope changes sign|Slope zero|Area zero|Limit zero|0
+Derivative zero does NOT always mean?|Max/Min|Critical point|Flat|Slope zero|0

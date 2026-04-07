@@ -1,0 +1,34 @@
+Function is used to?|Reuse code|Increase size|Slow program|Create variable|0
+Function definition contains?|Return type, name, body|Name only|Body only|Return only|0
+Function call means?|Using function|Creating function|Deleting function|Overloading|0
+Which function does not return value?|void|int|float|double|0
+Which keyword sends value back?|return|break|continue|exit|0
+Which function executes automatically?|main()|user function|library function|inline|0
+Arguments are?|Values passed|Returned values|Data types|Variables only|0
+Parameters are?|Variables in function|Values passed|Constants|Operators|0
+Actual parameters are?|Arguments|Formal parameters|Local variables|Globals|0
+Formal parameters are?|Parameters|Arguments|Constants|Macros|0
+Which scope is inside function?|Local scope|Global scope|Namespace|Class|0
+Which variable is accessible everywhere?|Global variable|Local variable|Static local|Register|0
+Local variable lifetime is?|Inside block|Whole program|Until reboot|Until function call|0
+Global variable lifetime is?|Whole program|Inside function|Block only|Loop only|0
+Which keyword limits scope to file?|static|const|extern|register|0
+Which keyword allows variable sharing across files?|extern|static|const|auto|0
+Default return type of function?|int|void|float|double|0
+Which function calls itself?|Recursive|Inline|Overloaded|Library|0
+Recursion must have?|Base condition|Loop|Array|Pointer|0
+Missing base case causes?|Infinite recursion|Compilation error|Syntax error|Warning|0
+Which function improves speed by avoiding call?|inline|static|virtual|const|0
+Inline functions are expanded at?|Compile time|Run time|Link time|Load time|0
+Which keyword stores value permanently?|static|auto|register|extern|0
+Static local variable retains value?|Between calls|Only once|Inside block|Until program ends only|0
+Which keyword suggests CPU register storage?|register|auto|static|extern|0
+Which storage class has block scope?|auto|extern|static|global|0
+Which storage class has program scope?|extern|auto|register|local|0
+Which keyword prevents modification?|const|static|register|auto|0
+Function overloading means?|Same name, different parameters|Same name same body|Different name same body|One function only|0
+Which is valid function prototype?|int sum(int,int);|sum int(int,int)|int sum|sum();|0
+Function prototype is used for?|Declaration|Execution|Looping|Overloading|0
+Which function returns multiple values?|Using references|Normal function|Void function|Inline function|0
+Which keyword sends address?|&|*|->|::|0
+Which parameter passing copies value?|Call by value|Call by reference|Call by address|Call by pointer|0

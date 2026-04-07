@@ -1,0 +1,30 @@
+A limit describes the behavior of a function?|Near a point|At infinity|At zero only|At integers|0
+Limit exists if left and right limits are?|Different|Equal|Infinite|Zero|1
+lim x→a f(x) means?|Value at a|Derivative at a|Approaches a|Integral at a|2
+Left hand limit is denoted by?|lim x→a+|lim x→a|lim x→∞|lim x→a-|3
+Right hand limit is denoted by?|lim x→a+|lim x→a-|lim x→∞|lim x→0|0
+If LHL ≠ RHL then limit?|Exists|Does not exist|Is zero|Is infinite|1
+lim x→0 sin x / x equals?|0|∞|1|Does not exist|2
+A function is continuous if?|Limit exists|f(a)=limit|None|Both|3
+Discontinuity occurs when?|Graph breaks|Limit exists|Function smooth|Slope zero|0
+Removable discontinuity is also called?|Jump|Hole|Infinite|Essential|1
+Infinite discontinuity occurs when?|Graph smooth|Limit zero|Limit infinite|Hole|2
+lim x→∞ 1/x equals?|1|∞|Does not exist|0|3
+If f(a) is undefined but limit exists then?|Discontinuous|Continuous|Differentiable|Constant|0
+A polynomial function is?|Always discontinuous|Always continuous|Sometimes continuous|Never continuous|1
+Continuity is checked at?|Interval only|Infinity only|A point|Derivative|2
+If f(x)=|x| is continuous at x=0?|No|Only right|Only left|Yes|3
+Limit of constant c is?|c|0|∞|Undefined|0
+Limit laws apply to?|Discontinuous only|All functions|Continuous only|Rational only|1
+If denominator →0 and numerator ≠0 limit is?|Zero|Finite|Infinite|One|2
+Limit is independent of?|Function|Point|Graph|Path|3
+One sided limits are used to check?|Continuity|Derivative|Integral|Area|0
+A function continuous on closed interval is?|Unbounded|Bounded|Discontinuous|Infinite|1
+IVT applies to?|Discontinuous|Differentiable only|Continuous functions|Polynomials only|2
+If limit exists function must be?|Continuous|Differentiable|Bounded|Defined|3
+Jump discontinuity occurs when?|LHL ≠ RHL|Limit infinite|Hole|Vertical asymptote|0
+Limit measures?|Exact value|Trend|Slope|Area|1
+If f(a)=limit then function is?|Discontinuous|Undefined|Continuous|Infinite|2
+Which function may have discontinuity?|Polynomial|Constant|Linear|Rational|3
+Limit at infinity checks?|End behavior|Slope|Area|Derivative|0
+Continuity ensures no?|Slope|Holes|Area|Limits|1

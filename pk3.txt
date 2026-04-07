@@ -1,0 +1,29 @@
+Pakistan is located in?|South Asia|Middle East|Europe|Africa|0
+Total provinces of Pakistan?|4|5|3|6|0
+Capital of Pakistan?|Islamabad|Karachi|Lahore|Peshawar|0
+Largest province by area?|Balochistan|Punjab|Sindh|KPK|0
+Largest province by population?|Punjab|Sindh|KPK|Balochistan|0
+Highest mountain peak?|K2|Nanga Parbat|Everest|Broad Peak|0
+River Indus originates from?|Tibet|Kashmir|China|Afghanistan|0
+Longest river of Pakistan?|Indus|Jhelum|Chenab|Ravi|0
+Major crops of Pakistan include?|Wheat and rice|Tea and coffee|Corn and barley|Cotton only|0
+Pakistan climate is mostly?|Arid to semi-arid|Polar|Humid|Tropical rainforest|0
+Pakistan shares border with India in?|East|West|North|South|0
+Pakistan shares border with Afghanistan in?|North-West|South|East|North-East|0
+Pakistan shares border with Iran in?|South-West|North|East|West|0
+Pakistan coastline is along?|Arabian Sea|Red Sea|Bay of Bengal|Mediterranean|0
+Major port of Pakistan?|Karachi|Gwadar|Pasni|Ormara|0
+Gwadar port is in?|Balochistan|Sindh|Punjab|KPK|0
+Desert in Pakistan?|Thar|Sahara|Gobi|Kalahari|0
+Plateau in Pakistan?|Potohar|Deccan|Tibetan|Colorado|0
+Northern areas famous for?|Mountains|Deserts|Plains|Forests only|0
+Hottest place of Pakistan?|Jacobabad|Murree|Skardu|Quetta|0
+Coldest place of Pakistan?|Skardu|Karachi|Multan|Hyderabad|0
+Major dams of Pakistan include?|Tarbela and Mangla|Aswan and Hoover|Three Gorges|Bhasha only|0
+Tarbela Dam is on river?|Indus|Jhelum|Chenab|Ravi|0
+Mangla Dam is on river?|Jhelum|Indus|Chenab|Ravi|0
+Pakistan lies in which latitude?|24°N–37°N|10°N–20°N|40°N–50°N|0°–10°N|0
+Natural resources of Pakistan include?|Gas and coal|Gold only|Oil only|None|0
+Major gas field?|Sui|Kashmir|Thar|Swat|0
+Indus plain is suitable for?|Agriculture|Mining|Fishing|Tourism only|0
+Most fertile land is in?|Punjab|Balochistan|KPK|Gilgit|0

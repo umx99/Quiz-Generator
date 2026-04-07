@@ -1,0 +1,28 @@
+Network security protects?|Data in transit|CPU|RAM|Battery|0
+Firewall is used to?|Filter traffic|Encrypt files|Store data|Backup|0
+Firewall works based on?|Rules|Passwords|Keys|Hashes|0
+Packet filtering firewall works at?|Network layer|Application layer|Physical layer|Session layer|0
+Stateful firewall tracks?|Connection state|Only packets|Only ports|Only IPs|0
+IDS stands for?|Intrusion Detection System|Internal Defense System|Internet Data Security|Information Detection Service|0
+IPS stands for?|Intrusion Prevention System|Internet Protection Service|Internal Packet System|Information Processing System|0
+IDS is used to?|Detect attacks|Block traffic|Encrypt data|Route packets|0
+IPS is used to?|Prevent attacks|Detect only|Encrypt data|Store logs|0
+DMZ is?|Demilitarized Zone|Data Management Zone|Dynamic Memory Zone|Direct Message Zone|0
+VPN is used for?|Secure remote access|Faster internet|More storage|Load balancing|0
+VPN uses?|Encryption|Compression|Routing only|Caching|0
+Which protocol secures web traffic?|HTTPS|HTTP|FTP|TELNET|0
+Which protocol is insecure?|TELNET|SSH|HTTPS|SFTP|0
+SSH is used for?|Secure remote login|File encryption|Web browsing|Email|0
+Which attack floods network traffic?|DoS|Phishing|Spoofing|Malware|0
+DDoS means?|Distributed DoS|Direct DoS|Dynamic DoS|Data DoS|0
+Phishing targets?|Users|Servers|Routers|Switches|0
+Spoofing involves?|Fake identity|Encryption|Authentication|Backup|0
+ARP spoofing targets?|Local network|Web server|Email|DNS root|0
+Which device connects networks?|Router|Switch|Hub|Repeater|0
+Switch works at?|Data Link layer|Network layer|Transport layer|Application layer|0
+Router works at?|Network layer|Data Link|Transport|Application|0
+MAC address is?|Physical address|Logical address|IP address|Port number|0
+IP address is?|Logical address|Physical address|MAC|Port|0
+Which protocol resolves IP to MAC?|ARP|DNS|ICMP|FTP|0
+Which protocol resolves domain to IP?|DNS|ARP|SMTP|HTTP|0
+Network security also ensures?|Availability|Speed only|Hardware|Power|0

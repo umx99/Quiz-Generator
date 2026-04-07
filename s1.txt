@@ -1,0 +1,29 @@
+Cryptography is the science of?|Securing information|Networking|Programming|Hacking|0
+Plaintext is?|Original message|Encrypted message|Key|Hash|0
+Ciphertext is?|Encrypted message|Original text|Key|Algorithm|0
+Encryption converts?|Plaintext to ciphertext|Ciphertext to plaintext|Key to data|Hash to key|0
+Decryption converts?|Ciphertext to plaintext|Plaintext to ciphertext|Key to hash|Data to key|0
+Key is used to?|Encrypt and decrypt|Store data|Transmit data|Compress data|0
+Symmetric cryptography uses?|Same key|Different keys|No key|Public key only|0
+Asymmetric cryptography uses?|Two keys|One key|No key|Shared key|0
+Public key cryptography is also called?|Asymmetric|Symmetric|Private|Hybrid|0
+Private key should be?|Kept secret|Shared publicly|Published online|Discarded|0
+AES is a?|Symmetric algorithm|Asymmetric algorithm|Hash function|Protocol|0
+RSA is a?|Asymmetric algorithm|Symmetric algorithm|Hash|Protocol|0
+DES is a?|Symmetric algorithm|Asymmetric algorithm|Hash function|Protocol|0
+Hashing is used for?|Integrity|Confidentiality|Availability|Routing|0
+Hash function output is?|Fixed length|Variable length|Plaintext|Key|0
+Which is a hash algorithm?|SHA-256|AES|RSA|DES|0
+MD5 is considered?|Weak|Strong|Unbreakable|Asymmetric|0
+Digital signature provides?|Authentication|Encryption only|Compression|Routing|0
+Digital signatures ensure?|Integrity and authenticity|Confidentiality only|Availability|Speed|0
+Which uses digital signatures?|Asymmetric cryptography|Symmetric|Hash only|Firewall|0
+Certificate Authority issues?|Digital certificates|Private keys|Firewalls|Passwords|0
+SSL/TLS is used for?|Secure communication|File storage|Backup|Routing|0
+Cryptography mainly protects?|Data|Hardware|Power|Network speed|0
+Which attack tries all keys?|Brute force|Phishing|DoS|Spoofing|0
+Key length affects?|Security strength|Speed only|Storage only|Availability|0
+Which property ensures data is not altered?|Integrity|Confidentiality|Availability|Authentication|0
+Which property ensures secrecy?|Confidentiality|Integrity|Availability|Audit|0
+Which property ensures system uptime?|Availability|Integrity|Confidentiality|Encryption|0
+Hybrid cryptography combines?|Symmetric and asymmetric|Two symmetric|Two asymmetric|Hash and firewall|0
